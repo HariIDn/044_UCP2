@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="back_btn">Kembali</string>
+    <string name="confrm">Konfirmasi</string>
+    <string name="nxt">Lanjut</string>
+    <string name="cncl">Batal</string>
+    <string name="dphs">Haris Setiawan</string>
+    <string name="dpdd">Dwi DJoko P</string>
+    <string name="dpak">Aprilia Kurniati</string>
+    <string name="submit_button">Submit</string>
+    <string name="nma">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsent">Konsentrasi</string>
+    <string name="dp1">Dosen Pembimbing 1</string>
+    <string name="dp2">Dosen Pembimbing 2</string>
+    <string name="jdul">Judul</string>
+
+</resources>
